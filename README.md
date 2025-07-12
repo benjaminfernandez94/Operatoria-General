@@ -60,18 +60,24 @@ Usamos **etiquetas por área** y **etiquetas por estado** para ordenar cada issu
 
 ## 📝 ¿Cómo crear una tarea o registrar algo?
 
-1. Tocá "New Issue"
+**1.** Tocá "New Issue"
+   
 <details>
 <summary>Ver imagen</summary>
 
 <img width="1538" height="447" alt="image" src="https://github.com/user-attachments/assets/9e717cb6-78f5-4019-a2ee-d1be9d02f28b" />
 
 </details>
-2. Poné un **título claro y específico** (ejemplo: "Cambiamos el horario para el viernes 12/7/2025")
-3. En la descripción, explicá brevemente qué pasó, qué se necesita o qué se está registrando.
-4. Asigná la **etiqueta del área** correspondiente (Ej: Horarios, Marketing, Compras, etc.)
-5. Asigná al **responsable** (quien lo sigue o lo reportó)
-6. Agregá la **etiqueta de estado** (`Pendiente`, `En desarrollo`, etc.)
+
+**2.** Poné un **título claro y específico** (ejemplo: "Cambiamos el horario para el viernes 12/7/2025")
+
+**3.** En la descripción, explicá brevemente qué pasó, qué se necesita o qué se está registrando.
+
+**4.** Asigná la **etiqueta del área** correspondiente (Ej: Horarios, Marketing, Compras, etc.)
+
+**5.** Asigná al **responsable** (quien lo sigue o lo reportó)
+
+**6.** Agregá la **etiqueta de estado** (`Pendiente`, `En desarrollo`, etc.)
 
 <details>
 <summary>Ver imagen</summary>
@@ -80,7 +86,7 @@ Usamos **etiquetas por área** y **etiquetas por estado** para ordenar cada issu
 
 </details>
 
-7. Si hace falta, subí archivos (listas, imágenes, etc.) o dejá comentarios
+**7.** Si hace falta, subí archivos (listas, imágenes, etc.) o dejá comentarios
 
 ---
 
