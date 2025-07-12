@@ -68,9 +68,18 @@ Usamos **etiquetas por área** y **etiquetas por estado** para ordenar cada issu
 
 ---
 
-## 📎 Organización de archivos (opcional)
+## 📎 Listas de precios (modo de carga)
 
-Si tenés listas de precios u otros documentos importantes, subilos en la carpeta `proveedores/` organizada por nombre y fecha.
+El responsable de compras debe crear un issue mensual llamado:
+
+📩 `Listas de precios – [Mes Año]`
+
+En ese issue se deben:
+- Adjuntar las listas de cada proveedor
+- Aclarar si hubo aumentos o cambios importantes
+- Dejar comentarios si hay demoras, errores o faltantes
+
+Este issue se mantiene abierto todo el mes y se cierra al finalizar, creando uno nuevo al iniciar el siguiente mes.
 
 ---
 
