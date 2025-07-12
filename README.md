@@ -58,13 +58,29 @@ Usamos **etiquetas por área** y **etiquetas por estado** para ordenar cada issu
 
 ---
 
-## 📝 ¿Cómo crear una tarea?
+## 📝 ¿Cómo crear una tarea o registrar algo?
 
 1. Tocá "New Issue"
-2. Usá la plantilla que ya está cargada
-3. Completá los campos: qué pasó, responsable, área, estado, comentarios
-4. Cargá archivos si hace falta (listas, imágenes, etc.)
-5. Asigná las etiquetas correspondientes
+2. <details>
+  <summary>Ver imagen</summary>
+
+  <img width="1538" height="447" alt="image" src="https://github.com/user-attachments/assets/9e717cb6-78f5-4019-a2ee-d1be9d02f28b" />
+
+</details>
+3. 4. Poné un **título claro y específico** (ejemplo: "Cambiamos el horario para el viernes 12/7/2025")
+5. En la descripción, explicá brevemente qué pasó, qué se necesita o qué se está registrando.
+6. Asigná la **etiqueta del área** correspondiente (Ej: Horarios, Marketing, Compras, etc.)
+7. Asigná al **responsable** (quien lo sigue o lo reportó)
+8. Agregá la **etiqueta de estado** (`Pendiente`, `En desarrollo`, etc.)
+
+ <details>
+  <summary>Ver imagen</summary>
+
+  <img width="1390" height="457" alt="image" src="https://github.com/user-attachments/assets/4c85263a-96fe-4112-bb00-ec02c1c8cb98" />
+
+</details>
+
+9. Si hace falta, subí archivos (listas, imágenes, etc.) o dejá comentarios
 
 ---
 
@@ -75,12 +91,15 @@ El responsable de compras debe crear un issue mensual llamado:
 📩 `Listas de precios – [Mes Año]`
 
 En ese issue se deben:
-- Adjuntar las listas de cada proveedor
-- Aclarar si hubo aumentos o cambios importantes
-- Dejar comentarios si hay demoras, errores o faltantes
+
+* Adjuntar las listas de cada proveedor
+* Aclarar si hubo aumentos o cambios importantes
+* Dejar comentarios si hay demoras, errores o faltantes
 
 Este issue se mantiene abierto todo el mes y se cierra al finalizar, creando uno nuevo al iniciar el siguiente mes.
 
 ---
 
 Este repositorio es parte de nuestra cultura de orden y mejora continua 💪
+
+
